@@ -1,0 +1,9 @@
+#!/bin/sh
+
+cat <<EOF
+{
+"changed": true,
+"name": "testmodule",
+"state": "present"
+}
+EOF
